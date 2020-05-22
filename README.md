@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a demo of blog in Next.js.
+These demo include dynamic routes, pre-rendering, API routes and styling. 
